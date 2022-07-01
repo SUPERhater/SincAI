@@ -1,4 +1,5 @@
-# HARMONIZADOR PAINEL WEB - A.I ⚡
+HARMONIZADOR
+PAINEL WEB - A.I ⚡
 
 * 1 - Acesse o Painel Web A.I ⚡
 * 2 - Adicione um servidor.
@@ -6,5 +7,5 @@
 * 4 - Copie o código abaixo e cole.na VPS
 
 ```
-www
+wget http://raw.githubusercontent.com/agrandefamiliassh/install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
